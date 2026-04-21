@@ -1,0 +1,4 @@
+.vscode/
+*.csv
+__pycache__/
+pycarmaker.egg-info/
